@@ -32,6 +32,7 @@ This project follows a feature branch workflow. Development is performed on the 
 
 feature/student-info
 
+Branch → Code → Commit → Push → Pull Request → Review → Merge
 
 Rather than making changes directly on the main branch, all updates are implemented and tested within the feature branch before being merged.
 
@@ -50,3 +51,11 @@ Tracking and committing code changes
 Writing basic programs
 Following version control best practices
 Collaborating using GitHub workflows
+
+Should look like...
+
+Student Developer Profile
+Name: Hephzibah Olanipekun
+Major: Computer Science
+Technology Interest: Artificial Intelligence and Software Development
+Skill to Develop: Full-stack Web Development
